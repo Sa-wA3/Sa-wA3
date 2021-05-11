@@ -1,9 +1,9 @@
 ### My name is Takayuki Hirasawa :dart: 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sa-wA3" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sa-wA3&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sa-wA3" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sa-wA3&show_icons=true" />
 </a>
 
 

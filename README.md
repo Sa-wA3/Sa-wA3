@@ -1,4 +1,4 @@
-### Hi there 👋
+### My name is Takayuki Hirasawa :dart: 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sa-wA3" />
 </a>
@@ -7,7 +7,7 @@
 </a>
 
 
-![Top Languages Card (Compact layout)]()
+
 <!--
 **Sa-wA3/Sa-wA3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

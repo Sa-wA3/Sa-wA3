@@ -1,4 +1,4 @@
-### My name is Takayuki Hirasawa :dart: 
+### I'm Engineer and Darts player 😙 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sa-wA3&theme=dark&show_icons=true" />
 </a>
